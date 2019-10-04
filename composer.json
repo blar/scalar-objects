@@ -1,0 +1,8 @@
+{
+	"name": "blar/scalar-objects",
+	"autoload": {
+		"psr-4": {
+			"Blar\\ScalarObjects\\": "src/Blar/ScalarObjects/"
+		}
+	}
+}
